@@ -1,0 +1,44 @@
+build*/
+*.swp
+a.out
+logs/
+*.vs*
+*.cap
+code/shared/platform_defines.hpp
+*.spv
+.vscode/
+code/external/bc7enc_rdo/bc7e_ispc*
+
+__pycache__
+
+# Prerequisites
+*.d
+
+# Compiled Object files
+*.slo
+*.lo
+*.o
+
+# Precompiled Headers
+*.gch
+*.pch
+
+# Compiled Dynamic libraries
+*.so
+*.dylib
+*.dll
+
+# Fortran module files
+*.mod
+*.smod
+
+# Compiled Static libraries
+*.lai
+*.la
+*.a
+*.lib
+
+# Executables
+*.exe
+*.out
+*.app
